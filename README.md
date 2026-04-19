@@ -16,7 +16,7 @@ Actualmente enfocado en resolver la falta de consenso en **biomarcadores para el
 Aplicación diseñada para para la evaluación interactiva de riesgos en laboratorios, predicción de incompatibilidades químicas y generación automatizada de etiquetas de seguridad NFPA.
 * **Tecnologías**: JavaScript (React) y Python (FastAPI), apoyados en bases de datos relacionales en la nube (PostgreSQL/Neon).
 * **Hito técnico**: Implementación de un algoritmo de evaluación en tiempo real que cruza múltiples grupos químicos y reglas de incompatibilidad para predecir el riesgo global de una mezcla.
-* * **Estado**: [Enlace al repositorio]
+* **Estado**:  https://github.com/rubengen/Aplicaci-n-Qu-mica
 
 
 ---
