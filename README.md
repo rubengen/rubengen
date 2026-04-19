@@ -11,7 +11,7 @@ Actualmente enfocado en resolver la falta de consenso en **biomarcadores para el
 * **Análisis:** Expresión diferencial con `limma` en R.
 * **Data Source:** Gene Expression Omnibus (GEO).
 
- ## 🧪 Software de Química 
+ ### 🧪 Software de Química 
 
 Aplicación diseñada para para la evaluación interactiva de riesgos en laboratorios, predicción de incompatibilidades químicas y generación automatizada de etiquetas de seguridad NFPA.
 * **Tecnologías**: JavaScript (React) y Python (FastAPI), apoyados en bases de datos relacionales en la nube (PostgreSQL/Neon).
