@@ -7,9 +7,9 @@
 
 ### 🧬 Bioinformática & Análisis de Datos
 Actualmente enfocado en resolver la falta de consenso en **biomarcadores para el cáncer colorrectal**.
-* **Workflow:** Ingeniería de datos + Biología molecular.
+* **Flujo de trabajo:** Ingeniería de datos + Biología molecular.
 * **Análisis:** Expresión diferencial con `limma` en R.
-* **Data Source:** Gene Expression Omnibus (GEO).
+* **Fuente de datos:** Gene Expression Omnibus (GEO).
 
  ### 🧪 Software de Química 
 
