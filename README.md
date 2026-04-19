@@ -6,10 +6,10 @@
 </p>
 
 ### 🧬 Bioinformática & Análisis de Datos
-[cite_start]Actualmente enfocado en resolver la falta de consenso en **biomarcadores para el cáncer colorrectal**[cite: 10].
-* [cite_start]**Workflow:** Ingeniería de datos + Biología molecular[cite: 11].
-* [cite_start]**Análisis:** Expresión diferencial con `limma` en R.
-* [cite_start]**Data Source:** Gene Expression Omnibus (GEO)[cite: 10].
+Actualmente enfocado en resolver la falta de consenso en **biomarcadores para el cáncer colorrectal**.
+* **Workflow:** Ingeniería de datos + Biología molecular.
+* **Análisis:** Expresión diferencial con `limma` en R.
+* **Data Source:** Gene Expression Omnibus (GEO).
 
 ---
 
@@ -30,5 +30,5 @@
 ---
 
 ### 🎓 Educación & Idiomas
-* [cite_start]**Ingeniería Informática** - Universidad Politécnica de Valencia[cite: 2, 22].
-* [cite_start]🇬🇧 **Inglés**: B2 [cite: 29] | [cite_start]🇩🇪 **Alemán**: A2 [cite: 31] | [cite_start]🇪🇸 **Castellano/Valenciano**: Nativo/C1[cite: 30, 32].
+* **Ingeniería Informática** - Universidad Politécnica de Valencia.
+* 🇬🇧 **Inglés**: B2  | 🇩🇪 **Alemán**: A2  | 🇪🇸 **Castellano/Valenciano**: Nativo/C1.
