@@ -1,16 +1,26 @@
-## Hi there 👋
+Rubén Genés Bastidas | 
+Ingeniero Informático 
 
-<!--
-**rubengen/rubengen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero centrado en el análisis de datos y el desarrollo de soluciones de software escalables. 
 
-Here are some ideas to get you started:
+🧬 Proyecto Principal: Bioinformática & Oncología 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente desarrollo un análisis de datos genómicos para resolver la falta de consenso en biomarcadores del cáncer colorrectal. 
+
+    Metodología: Modelado conceptual y análisis de expresión diferencial. 
+
+    Tecnologías: R (limma) y procesamiento de datos públicos de GEO. 
+
+🛠️ Stack Tecnológico 
+
+    Lenguajes: Java, Javascript, C, R. 
+
+    Especialidades: Ingeniería de datos, Bioinformática, Resolución de problemas complejos. 
+
+    Certificaciones: IA (IBM) y OCI AI Foundations (Oracle). 
+
+🎓 Formación 
+
+    Grado en Ingeniería Informática - Universidad Politécnica de Valencia. 
+
+    Idiomas: Inglés (B2), Valenciano (C1), Alemán (A2).
