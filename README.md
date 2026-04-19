@@ -11,13 +11,21 @@ Actualmente enfocado en resolver la falta de consenso en **biomarcadores para el
 * **Análisis:** Expresión diferencial con `limma` en R.
 * **Data Source:** Gene Expression Omnibus (GEO).
 
+ ## 🧪 Software de Química 
+
+Aplicación diseñada para para la evaluación interactiva de riesgos en laboratorios, predicción de incompatibilidades químicas y generación automatizada de etiquetas de seguridad NFPA.
+* **Tecnologías**: JavaScript (React) y Python (FastAPI), apoyados en bases de datos relacionales en la nube (PostgreSQL/Neon).
+* **Hito técnico**: Implementación de un algoritmo de evaluación en tiempo real que cruza múltiples grupos químicos y reglas de incompatibilidad para predecir el riesgo global de una mezcla.
+* * **Estado**: [Enlace al repositorio]
+
+
 ---
 
 ### 🛠️ Stack Tecnológico
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) |
+| **Lenguajes trabajados** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) |
 | **Análisis** | `Bioinformática` `Ingeniería de Datos` `Transcriptómica` |
 | **Cloud & IA** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![IBM](https://img.shields.io/badge/IBM-05FEFF?style=flat&logo=ibm&logoColor=black) |
 
